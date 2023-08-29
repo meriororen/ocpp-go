@@ -571,7 +571,7 @@ const (
 	MeasurandPowerOffered                 Measurand      = "Power.Offered"
 	MeasurandPowerReactiveExport          Measurand      = "Power.Reactive.Export"
 	MeasurandPowerReactiveImport          Measurand      = "Power.Reactive.Import"
-	MeasueandSoC                          Measurand      = "SoC"
+	MeasurandSoC                          Measurand      = "SoC"
 	MeasurandTemperature                  Measurand      = "Temperature"
 	MeasurandVoltage                      Measurand      = "Voltage"
 	PhaseL1                               Phase          = "L1"
